@@ -1,15 +1,15 @@
-# **Constitution Holacracy 4.1**
+# **Constitution Gouvernance Agile 4.1**
 
 
 ## Préambule
 
-La présente **_“Constitution”_** définit les règles et les processus pour la gouvernance et les opérations d'une organisation. Les **_“Ratifieurs”_** adoptent ces règles comme étant la structure d'autorité formelle de l' **_“Organisation”_** telle que spécifiée lors de l'adoption de la Constitution, laquelle peut être, soit l'entité dans son ensemble, soit une partie de l'entité que les Ratifieurs ont le pouvoir de gouverner et de diriger. Les Ratifieurs et tout tiers qui accepte de participer à la gouvernance et aux opérations de l'Organisation (ses **_“Associés”_**) peuvent se prévaloir des autorités conférées par la présente Constitution et acceptent d'être liés par les obligations et contraintes que celle-ci prévoit.
+La présente **_“Constitution”_** définit les règles et les processus pour la gouvernance et les opérations d'une organisation. Les **_“Ratifieurs”_** adoptent ces règles comme étant la structure d'autorité formelle de l' **_“Organisation”_** telle que spécifiée lors de l'adoption de la Constitution, laquelle peut être, soit l'entité dans son ensemble, soit une partie de l'entité que les Ratifieurs ont le pouvoir de gouverner et de diriger. Les Ratifieurs et tout tiers qui accepte de participer à la gouvernance et aux opérations de l'Organisation (ses **_“Membres”_**) peuvent se prévaloir des autorités conférées par la présente Constitution et acceptent d'être liés par les obligations et contraintes que celle-ci prévoit.
 
 ## Article 1 : Énergiser des Rôles
 
 ### 1.1 Définition d’un rôle
 
-Les Associés de l’Organisation sont généralement tenus de réaliser un travail pour le compte de l’Organisation en agissant dans le cadre d’un Rôle explicitement défini. Un « Rôle » est une entité organisationnelle dotée d’un nom descriptif et d’une ou plusieurs caractéristiques suivantes :
+Les Membres de l’Organisation sont généralement tenus de réaliser un travail pour le compte de l’Organisation en agissant dans le cadre d’un Rôle explicitement défini. Un « Rôle » est une entité organisationnelle dotée d’un nom descriptif et d’une ou plusieurs caractéristiques suivantes :
 
 - **(a)** la **_“Raison d’Être”_**, qui désigne une capacité, un potentiel ou un but inaccessible que le Rôle va poursuivre ou manifester au nom de l’Organisation.
 - **(b)** un ou plusieurs **_“Domaines”_**, qui sont des choses que le Rôle est le seul à pouvoir contrôler et réglementer comme sa propriété, au nom de l’Organisation.
@@ -17,7 +17,7 @@ Les Associés de l’Organisation sont généralement tenus de réaliser un trav
 
 ### 1.2 Responsabilités liées au Rôle
 
-En votre qualité d’Associé de l’Organisation, vous avez les responsabilités suivantes dans le cadre de chaque Rôle auquel vous êtes affecté et que vous acceptez de remplir :
+En votre qualité d’Membre de l’Organisation, vous avez les responsabilités suivantes dans le cadre de chaque Rôle auquel vous êtes affecté et que vous acceptez de remplir :
 
 #### 1.2.1 Processer les Tensions
 
@@ -44,15 +44,15 @@ Vous êtes chargé d’enregistrer et de suivre tous les Projets et Prochaine-Ac
 
 ### 1.3 Autorité d’Action
 
-En tant qu’Associé affecté à un Rôle, vous avez l’autorité pour exécuter toute Prochaine-Action que vous avez de bonnes raisons de croire utile pour exprimer la Raison d’Être ou les Redevabilités de votre Rôle.
+En tant qu’Membre affecté à un Rôle, vous avez l’autorité pour exécuter toute Prochaine-Action que vous avez de bonnes raisons de croire utile pour exprimer la Raison d’Être ou les Redevabilités de votre Rôle.
 
 Toutefois, vous ne pouvez pas exercer de contrôle ou avoir un impact concret sur un Domaine détenu par un autre Rôle ou une autre entité souveraine, sauf si vous y êtes autorisé. L’autorité conférée par le présent paragraphe est par ailleurs limitée par les dispositions de la Section 2.1.3.
 
 ### 1.4 Autorité sur les Domaines
 
-En tant qu’Associé affecté à un Rôle, vous avez l’autorité de contrôler et de réguler chaque Domaine de votre Rôle. Vous pouvez exercer cette autorité au cas par cas, lorsque des tiers demandent l’autorisation d'affecter l’un de vos Domaines, en examinant la demande puis, en l’acceptant ou en la refusant.
+En tant qu’Membre affecté à un Rôle, vous avez l’autorité de contrôler et de réguler chaque Domaine de votre Rôle. Vous pouvez exercer cette autorité au cas par cas, lorsque des tiers demandent l’autorisation d'affecter l’un de vos Domaines, en examinant la demande puis, en l’acceptant ou en la refusant.
 
-Vous pouvez également définir des **_“Politiques”_** pour vos Domaines, soit pour accorder à des tiers de l’autorité pour contrôler ou exercer un impact concret sur un Domaine, soit pour limiter la façon dont les tiers peuvent affecter un Domaine lorsqu’ils y sont déjà autorisés. Pour qu’une Politique soit valide, vous devez d’abord la publier sur un forum accessible à l’ensemble des Associés susceptibles d’être concernés.
+Vous pouvez également définir des **_“Politiques”_** pour vos Domaines, soit pour accorder à des tiers de l’autorité pour contrôler ou exercer un impact concret sur un Domaine, soit pour limiter la façon dont les tiers peuvent affecter un Domaine lorsqu’ils y sont déjà autorisés. Pour qu’une Politique soit valide, vous devez d’abord la publier sur un forum accessible à l’ensemble des Membres susceptibles d’être concernés.
 
 Les autorités qui vous sont accordées dans la présente section peuvent en outre être limitées par des contraintes définies dans la Section 2.1.3.
 
@@ -119,22 +119,22 @@ Les Membres Structurels de Cercle sont déterminés conformément aux règles su
 
 Sauf cas de nomination à titre exceptionnel ou d’exclusion faite selon les modalités de la présente section, les Membres Structurels de Cercle d’un Cercle sont :
 
-- **(a)** chaque Associé qui remplit un Rôle Défini au sein du Cercle ;
+- **(a)** chaque Membre qui remplit un Rôle Défini au sein du Cercle ;
 - **(b)** le Premier Lien du Cercle, tel que défini dans la Section 2.2 ;
 - **(c)** chaque Second Lien élu vers le Cercle, tel que défini dans la Section 2.6.4 ;
 - **(d)** et chaque Lien Transverse vers le Cercle, tel que défini dans la Section 2.7.
 
 #### 2.3.2 Exclusion pour des Rôles affectés à plusieurs personnes
 
-Si plusieurs Associés sont affectés à un même Rôle Défini au sein d’un Cercle, le Cercle peut adopter une Politique permettant de limiter le nombre d’Associés qui sont des Membres Structurels de Cercle du fait de cette affectation audit Rôle. Toutefois, la Politique doit autoriser au moins l’un des Associés affecté au Rôle à représenter ce dernier en qualité de Membre Structurel de Cercle et elle doit préciser les modalités de désignation de ce représentant.
+Si plusieurs Membres sont affectés à un même Rôle Défini au sein d’un Cercle, le Cercle peut adopter une Politique permettant de limiter le nombre d’Membres qui sont des Membres Structurels de Cercle du fait de cette affectation audit Rôle. Toutefois, la Politique doit autoriser au moins l’un des Membres affecté au Rôle à représenter ce dernier en qualité de Membre Structurel de Cercle et elle doit préciser les modalités de désignation de ce représentant.
 
-De plus, tout Associé qui représente un Rôle est tenu d’examiner et de processer les Tensions transmises par les Associés exclus, exactement de la même manière dont procède un Second Lien avec son Sous-Cercle, sauf si la Politique prévoit d’autres moyens pour que les Associés exclus puissent processer leurs Tensions relatives audit Rôle.
+De plus, tout Membre qui représente un Rôle est tenu d’examiner et de processer les Tensions transmises par les Membres exclus, exactement de la même manière dont procède un Second Lien avec son Sous-Cercle, sauf si la Politique prévoit d’autres moyens pour que les Membres exclus puissent processer leurs Tensions relatives audit Rôle.
 
 #### 2.3.3 Exclusion pour allocations mineures
 
-Parfois, un Associé consacre une attention très réduite, voire insignifiante, à un Rôle Défini au sein d’un Cercle. Si le Premier Lien du Cercle a des raisons de croire que c’est le cas, il peut exclure l’Associé concerné de sa fonction de Membre Structurel de Cercle acquise du fait de son affectation audit Rôle.
+Parfois, un Membre consacre une attention très réduite, voire insignifiante, à un Rôle Défini au sein d’un Cercle. Si le Premier Lien du Cercle a des raisons de croire que c’est le cas, il peut exclure l’Membre concerné de sa fonction de Membre Structurel de Cercle acquise du fait de son affectation audit Rôle.
 
-En cas d’exclusion d’un Associé pour les motifs précités, le Premier Lien du Cercle est tenu d’examiner et de processer les Tensions transmises par l’Associé exclu, exactement de la même manière dont procède un Second Lien avec son Sous-Cercle, sauf si d’autres moyens sont prévus pour que l’Associé puisse processer ses Tensions relatives audit Rôle.  
+En cas d’exclusion d’un Membre pour les motifs précités, le Premier Lien du Cercle est tenu d’examiner et de processer les Tensions transmises par l’Membre exclu, exactement de la même manière dont procède un Second Lien avec son Sous-Cercle, sauf si d’autres moyens sont prévus pour que l’Membre puisse processer ses Tensions relatives audit Rôle.  
 
 #### 2.3.4 Nomination à titre exceptionnel de Membres Structurels de Cercle
 
@@ -409,7 +409,7 @@ Les Réunions de Gouvernance visent essentiellement à soutenir le Processus de 
 
 ### 3.4 Interpréter la Constitution et la Gouvernance
 
-En tant qu’Associé de l’Organisation, vous pouvez faire appel à votre jugement raisonnable pour interpréter la Constitution et la Gouvernance de l’Organisation, y compris la manière dont elles s’appliquent dans une situation spécifique, et ensuite agir sur la base de votre interprétation. Vous pouvez également vous appuyer sur une interprétation explicite fournie par le Secrétaire du Cercle concerné par ladite Gouvernance. Toutefois, dans les deux cas, les modalités additionnelles suivantes s’appliquent :
+En tant qu’Membre de l’Organisation, vous pouvez faire appel à votre jugement raisonnable pour interpréter la Constitution et la Gouvernance de l’Organisation, y compris la manière dont elles s’appliquent dans une situation spécifique, et ensuite agir sur la base de votre interprétation. Vous pouvez également vous appuyer sur une interprétation explicite fournie par le Secrétaire du Cercle concerné par ladite Gouvernance. Toutefois, dans les deux cas, les modalités additionnelles suivantes s’appliquent :
 
 #### 3.4.1 L’interprétation du Secrétaire l’emporte
 
@@ -494,7 +494,7 @@ En tant que Premier Lien, Second Lien ou Lien Transverse vers un Cercle, vous po
 
 #### 4.1.5 Les Attentes implicites n’ont aucun poids
 
-Toutes vos responsabilités et contraintes en tant qu’Associé de l’Organisation sont définies dans la présente Constitution et dans la Gouvernance qui en résulte. Toute attente ou contrainte, antérieure ou implicite ne fait pas autorité et n’a aucun poids, à moins que la Gouvernance d’un Cercle ne l’autorise explicitement, ou si elle fait partie des obligations élémentaires ou d’un accord contractuel que vous avez conclu personnellement ou qui a été conclu avec l’Organisation.
+Toutes vos responsabilités et contraintes en tant qu’Membre de l’Organisation sont définies dans la présente Constitution et dans la Gouvernance qui en résulte. Toute attente ou contrainte, antérieure ou implicite ne fait pas autorité et n’a aucun poids, à moins que la Gouvernance d’un Cercle ne l’autorise explicitement, ou si elle fait partie des obligations élémentaires ou d’un accord contractuel que vous avez conclu personnellement ou qui a été conclu avec l’Organisation.
 
 ### 4.2 Réunion de Triage
 
@@ -532,7 +532,7 @@ Si un Rôle Défini du Cercle n’est pas représenté ou n’est représenté q
 
 ### 4.3 Action Individuelle
 
-En tant qu’Associé de l’Organisation, vous êtes autorisé dans certains cas à agir en dehors des autorités que vous confèrent vos Rôles, ou même à enfreindre les règles de la présente Constitution. En agissant en vertu de cette autorité étendue, vous prenez une « Action Individuelle », et vous devez respecter les règles suivantes :
+En tant qu’Membre de l’Organisation, vous êtes autorisé dans certains cas à agir en dehors des autorités que vous confèrent vos Rôles, ou même à enfreindre les règles de la présente Constitution. En agissant en vertu de cette autorité étendue, vous prenez une « Action Individuelle », et vous devez respecter les règles suivantes :
 
 #### 4.3.1 Situations autorisées
 
@@ -545,7 +545,7 @@ Vous pouvez prendre une Action Individuelle seulement si toutes les conditions s
 
 #### 4.3.2 Communication et Restauration
 
-À la suite d’une Action Individuelle, vous êtes tenu d’expliquer votre action et l’intention sous-jacente à tout Associé qui remplit un Rôle pouvant être affecté de manière significative. À la demande de l’un de ces Associés, vous êtes également tenu de prendre toute mesure raisonnable additionnelle visant à aider la résolution des Tensions créées par votre Action Individuelle.
+À la suite d’une Action Individuelle, vous êtes tenu d’expliquer votre action et l’intention sous-jacente à tout Membre qui remplit un Rôle pouvant être affecté de manière significative. À la demande de l’un de ces Membres, vous êtes également tenu de prendre toute mesure raisonnable additionnelle visant à aider la résolution des Tensions créées par votre Action Individuelle.
 
 Si votre Action Individuelle interférait réellement avec un autre Rôle ou violait un Domaine ou une Politique, vous devez alors cesser de prendre toute Action individuelle similaire à la demande de la personne qui habituellement contrôle ce Rôle, ce Domaine ou cette Politique, ou à la demande du Premier Lien du Cercle qui contient l’entité concernée.
 
@@ -561,7 +561,7 @@ Après avoir pris une Action Individuelle, vous êtes tenu de mettre en priorit�
 
 ### 5.1 Les Ratifieurs cèdent l’Autorité
 
-En adoptant la présente Constitution, les Ratifieurs cèdent leur autorité pour gouverner et  diriger l’Organisation ou gérer ses Associés, et ne peuvent plus l’exercer, à l’exception toutefois de l’autorité qui leur est conférée selon les règles et processus définis par la Constitution. Toutefois, et ceci constitue une exception à la règle, les Ratifieurs continuent de détenir et exercer toutes les autorités qu’ils n’ont pas le pouvoir de déléguer, comme tout ce qui pourrait être exigé par des politiques qu’ils ne contrôlent pas ou par les statuts de l’Organisation. 
+En adoptant la présente Constitution, les Ratifieurs cèdent leur autorité pour gouverner et  diriger l’Organisation ou gérer ses Membres, et ne peuvent plus l’exercer, à l’exception toutefois de l’autorité qui leur est conférée selon les règles et processus définis par la Constitution. Toutefois, et ceci constitue une exception à la règle, les Ratifieurs continuent de détenir et exercer toutes les autorités qu’ils n’ont pas le pouvoir de déléguer, comme tout ce qui pourrait être exigé par des politiques qu’ils ne contrôlent pas ou par les statuts de l’Organisation. 
 
 ### 5.2 Cercle d’Ancrage
 
@@ -581,7 +581,7 @@ De plus, dans un Cercle d’Ancrage sans Premier Lien, l’autorité habituelle 
 
 #### 5.2.3 Raison d’Être de l’Organisation
 
-Le Cercle d’Ancrage est automatiquement redevable d’identifier et d’exprimer la Raison d’Être de l’Organisation dans son ensemble. La Raison d’Être de l’Organisation désigne le potentiel créatif le plus profond que l’Organisation peut durablement exprimer dans le monde, compte tenu de l’ensemble des contraintes auxquelles celle-ci est soumise et de toutes les choses dont elle dispose. Il s’agit notamment, de son histoire, de ses capacités actuelles, de ses ressources disponibles, de ses Associés, de son caractère, de sa culture, de la structure d’affaires, de la marque, de la connaissance du marché, ainsi que toutes les autres ressources ou facteurs pertinents.
+Le Cercle d’Ancrage est automatiquement redevable d’identifier et d’exprimer la Raison d’Être de l’Organisation dans son ensemble. La Raison d’Être de l’Organisation désigne le potentiel créatif le plus profond que l’Organisation peut durablement exprimer dans le monde, compte tenu de l’ensemble des contraintes auxquelles celle-ci est soumise et de toutes les choses dont elle dispose. Il s’agit notamment, de son histoire, de ses capacités actuelles, de ses ressources disponibles, de ses Membres, de son caractère, de sa culture, de la structure d’affaires, de la marque, de la connaissance du marché, ainsi que toutes les autres ressources ou facteurs pertinents.
 
 Le Premier Lien du Cercle d’Ancrage hérite de cette Redevabilité par défaut, et peut enregistrer et mettre à jour la Raison d’Être afin d’exprimer cette Redevabilité.
 
@@ -609,7 +609,7 @@ Toutefois, ces politiques et systèmes existants perdront tout leur poids et aut
 
 ### 5.5 Modifications et Abrogation de la Constitution
 
-Les Ratifieurs ou leurs successeurs peuvent modifier la présente Constitution ou procéder à son abrogation complète, en s’appuyant sur les mêmes autorités et processus utilisés pour son adoption. Les modifications doivent être apportées par écrit et publiées de façon à ce que tous les Associés de l’Organisation puissent en prendre connaissance.
+Les Ratifieurs ou leurs successeurs peuvent modifier la présente Constitution ou procéder à son abrogation complète, en s’appuyant sur les mêmes autorités et processus utilisés pour son adoption. Les modifications doivent être apportées par écrit et publiées de façon à ce que tous les Membres de l’Organisation puissent en prendre connaissance.
 
 ---
 
