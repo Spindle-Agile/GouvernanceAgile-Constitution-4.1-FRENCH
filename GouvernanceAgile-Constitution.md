@@ -496,13 +496,13 @@ En tant que Premier Lien, Second Lien ou Lien Transverse vers un Cercle, vous po
 
 Toutes vos responsabilités et contraintes en tant qu’Membre de l’Organisation sont définies dans la présente Constitution et dans la Gouvernance qui en résulte. Toute attente ou contrainte, antérieure ou implicite ne fait pas autorité et n’a aucun poids, à moins que la Gouvernance d’un Cercle ne l’autorise explicitement, ou si elle fait partie des obligations élémentaires ou d’un accord contractuel que vous avez conclu personnellement ou qui a été conclu avec l’Organisation.
 
-### 4.2 Réunion de Triage
+### 4.2 Réunion de Synchronisation
 
-Le Secrétaire d’un Cercle est en charge de l’organisation des « Réunions de Triage » visant à faciliter les opérations du Cercle. Le Facilitateur est chargé de présider les Réunions de Triage conformément aux règles exposées ci-après et aux politiques du Cercle concernées.
+Le Secrétaire d’un Cercle est en charge de l’organisation des « Réunions de Synchronisation » visant à faciliter les opérations du Cercle. Le Facilitateur est chargé de présider les Réunions de Synchronisation conformément aux règles exposées ci-après et aux politiques du Cercle concernées.
 
 #### 4.2.1 Focalisation et intention
 
-Les Réunions de Triage sont organisées pour :
+Les Réunions de Synchronisation sont organisées pour :
 
 - **(a)** partager les informations sur l’état d’achèvement des actions récurrentes, figurant sur les check-lists détenues par les Rôles du Cercle ; 
 - **(b)** partager les indicateurs réguliers présentés par les Rôles du Cercle auxquels ils sont attribués ;
@@ -511,24 +511,24 @@ Les Réunions de Triage sont organisées pour :
 
 #### 4.2.2 Participation
 
-Tous les Membres Structurels de Cercle et toute autre personne habituellement invitée à participer aux Réunions de Gouvernance du Cercle sont également invités à participer à ces Réunions de Triage, sauf disposition contraire prévue par Politique. Aucun préavis ni quorum n’est requis pour les Réunions de Triage, sauf disposition contraire prévue par Politique.
+Tous les Membres Structurels de Cercle et toute autre personne habituellement invitée à participer aux Réunions de Gouvernance du Cercle sont également invités à participer à ces Réunions de Synchronisation, sauf disposition contraire prévue par Politique. Aucun préavis ni quorum n’est requis pour les Réunions de Synchronisation, sauf disposition contraire prévue par Politique.
 
 #### 4.2.3 Facilitation et Processus
 
-Le Facilitateur est généralement tenu d’appliquer le processus suivant lors des Réunions de Triage :
+Le Facilitateur est généralement tenu d’appliquer le processus suivant lors des Réunions de Synchronisation :
 
 - **(a) Tour d’inclusion :** le Facilitateur invite à son tour chaque participant à faire part de son état d’esprit ou ses réflexions, ou à partager toute autre forme de commentaire d’ouverture pour la réunion. Les réactions ne sont pas autorisées.
 - **(b) Revue de la Check-list :** le Facilitateur demande à chaque participant de vérifier l’achèvement de toutes les actions récurrentes figurant sur la check-list de ce participant.
 - **(c) Revue des Indicateurs :** le Facilitateur demande à chaque participant de partager les données correspondant aux indicateurs qui lui ont été attribués par le Premier Lien ou tout autre rôle ou processus en charge de définir les indicateurs du Cercle.
 - **(d) Progrès Réalisés :** le Facilitateur demande à chaque participant de souligner les progrès réalisés dans l'accomplissement de tout Projet ou l’expression de toute Redevabilité pour chacun de ses Rôles dans le Cercle. Les participants ne peuvent partager que les progrès réalisés depuis le dernier rapport, et non faire un point général sur un Projet ou une Redevabilité. Chaque participant peut décider quels Projets ou Redevabilités méritent de faire l’objet d’un rapport, mais si un autre Membre du Cercle demande explicitement des nouvelles d’un Projet spécifique, il convient d’inclure ce Projet tant que celui-ci n’est pas achevé ou abandonné. Concernant les rapports sur un Projet ou une Redevabilité d’un Sous-Cercle, le Facilitateur se doit d’autoriser à la fois le Premier Lien et le Second Lien du Sous-Cercle à partager les progrès réalisés.
-- **(e) Points de Triage :** le Facilitateur est chargé de dresser l’ordre du jour des Tensions à traiter au cours de la Réunion de Triage en demandant les points de l’ordre du jour à tous les participants, selon les mêmes règles que celles qui s’appliquent lors d’une Réunion de Gouvernance et qui sont définies dans la Section 3.3.4. Toutefois, lors des Réunions de Triage, le Facilitateur traite les points de l’ordre du jour en autorisant simplement la personne qui a apporté le point à engager avec les autres participants dans leurs Rôles et devoirs comme elle le souhaite, jusqu’à ce qu’une voie pour résoudre la Tension soit identifiée. Si des Prochaine-Actions ou des Projets sont acceptés lors de ces discussions, le Secrétaire est chargé de les enregistrer et de diffuser tous les résultats à l’ensemble des participants. Le Facilitateur doit tenter de laisser du temps pour traiter chaque point de l’ordre du jour au cours de la réunion, et pour ce faire, il peut interrompre le traitement d’un point qui prendrait plus de temps que la juste part qui lui revient compte-tenu du temps restant. 
+- **(e) Points de Synchronisation :** le Facilitateur est chargé de dresser l’ordre du jour des Tensions à traiter au cours de la Réunion de Synchronisation en demandant les points de l’ordre du jour à tous les participants, selon les mêmes règles que celles qui s’appliquent lors d’une Réunion de Gouvernance et qui sont définies dans la Section 3.3.4. Toutefois, lors des Réunions de Synchronisation, le Facilitateur traite les points de l’ordre du jour en autorisant simplement la personne qui a apporté le point à engager avec les autres participants dans leurs Rôles et devoirs comme elle le souhaite, jusqu’à ce qu’une voie pour résoudre la Tension soit identifiée. Si des Prochaine-Actions ou des Projets sont acceptés lors de ces discussions, le Secrétaire est chargé de les enregistrer et de diffuser tous les résultats à l’ensemble des participants. Le Facilitateur doit tenter de laisser du temps pour traiter chaque point de l’ordre du jour au cours de la réunion, et pour ce faire, il peut interrompre le traitement d’un point qui prendrait plus de temps que la juste part qui lui revient compte-tenu du temps restant. 
 - **(f) Tour de Clôture :** le Facilitateur invite à son tour chaque participant à partager une réflexion de clôture ou toute autre pensée déclenchée par la réunion. Les réactions ne sont pas autorisées.
 
 Un Cercle peut adopter une Politique permettant d’ajouter des choses ou de modifier ce processus requis.
 
 #### 4.2.4 Remplacement des membres absents
 
-Si un Rôle Défini du Cercle n’est pas représenté ou n’est représenté que partiellement lors d’une Réunion de Triage en raison de l’absence d’un membre, le Premier Lien du Cercle peut agir dans ce Rôle pour combler l’absence. Si le Premier Lien est également absent, tout participant peut accepter des Prochaine-Actions ou Projets pour le compte de ce Rôle, mais ceux-ci peuvent être traités comme des requêtes telles que définies à la Section 4.1.2(b) par la personne qui remplit habituellement le Rôle.
+Si un Rôle Défini du Cercle n’est pas représenté ou n’est représenté que partiellement lors d’une Réunion de Synchronisation en raison de l’absence d’un membre, le Premier Lien du Cercle peut agir dans ce Rôle pour combler l’absence. Si le Premier Lien est également absent, tout participant peut accepter des Prochaine-Actions ou Projets pour le compte de ce Rôle, mais ceux-ci peuvent être traités comme des requêtes telles que définies à la Section 4.1.2(b) par la personne qui remplit habituellement le Rôle.
 
 ### 4.3 Action Individuelle
 
