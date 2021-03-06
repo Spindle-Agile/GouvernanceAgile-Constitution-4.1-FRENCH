@@ -44,13 +44,13 @@ Vous êtes chargé d’enregistrer et de suivre tous les Projets et Prochaine-Ac
 
 ### 1.3 Autorité d’Action
 
-En tant qu’Membre affecté à un Rôle, vous avez l’autorité pour exécuter toute Prochaine-Action que vous avez de bonnes raisons de croire utile pour exprimer la Raison d’Être ou les Redevabilités de votre Rôle.
+En tant que Membre affecté à un Rôle, vous avez l’autorité pour exécuter toute Prochaine-Action que vous avez de bonnes raisons de croire utile pour exprimer la Raison d’Être ou les Redevabilités de votre Rôle.
 
 Toutefois, vous ne pouvez pas exercer de contrôle ou avoir un impact concret sur un Domaine détenu par un autre Rôle ou une autre entité souveraine, sauf si vous y êtes autorisé. L’autorité conférée par le présent paragraphe est par ailleurs limitée par les dispositions de la Section 2.1.3.
 
 ### 1.4 Autorité sur les Domaines
 
-En tant qu’Membre affecté à un Rôle, vous avez l’autorité de contrôler et de réguler chaque Domaine de votre Rôle. Vous pouvez exercer cette autorité au cas par cas, lorsque des tiers demandent l’autorisation d'affecter l’un de vos Domaines, en examinant la demande puis, en l’acceptant ou en la refusant.
+En tant que Membre affecté à un Rôle, vous avez l’autorité de contrôler et de réguler chaque Domaine de votre Rôle. Vous pouvez exercer cette autorité au cas par cas, lorsque des tiers demandent l’autorisation d'affecter l’un de vos Domaines, en examinant la demande puis, en l’acceptant ou en la refusant.
 
 Vous pouvez également définir des **_“Politiques”_** pour vos Domaines, soit pour accorder à des tiers de l’autorité pour contrôler ou exercer un impact concret sur un Domaine, soit pour limiter la façon dont les tiers peuvent affecter un Domaine lorsqu’ils y sont déjà autorisés. Pour qu’une Politique soit valide, vous devez d’abord la publier sur un forum accessible à l’ensemble des Membres susceptibles d’être concernés.
 
@@ -409,7 +409,7 @@ Les Réunions de Gouvernance visent essentiellement à soutenir le Processus de 
 
 ### 3.4 Interpréter la Constitution et la Gouvernance
 
-En tant qu’Membre de l’Organisation, vous pouvez faire appel à votre jugement raisonnable pour interpréter la Constitution et la Gouvernance de l’Organisation, y compris la manière dont elles s’appliquent dans une situation spécifique, et ensuite agir sur la base de votre interprétation. Vous pouvez également vous appuyer sur une interprétation explicite fournie par le Secrétaire du Cercle concerné par ladite Gouvernance. Toutefois, dans les deux cas, les modalités additionnelles suivantes s’appliquent :
+En tant que Membre de l’Organisation, vous pouvez faire appel à votre jugement raisonnable pour interpréter la Constitution et la Gouvernance de l’Organisation, y compris la manière dont elles s’appliquent dans une situation spécifique, et ensuite agir sur la base de votre interprétation. Vous pouvez également vous appuyer sur une interprétation explicite fournie par le Secrétaire du Cercle concerné par ladite Gouvernance. Toutefois, dans les deux cas, les modalités additionnelles suivantes s’appliquent :
 
 #### 3.4.1 L’interprétation du Secrétaire l’emporte
 
@@ -494,7 +494,7 @@ En tant que Premier Lien, Second Lien ou Lien Transverse vers un Cercle, vous po
 
 #### 4.1.5 Les Attentes implicites n’ont aucun poids
 
-Toutes vos responsabilités et contraintes en tant qu’Membre de l’Organisation sont définies dans la présente Constitution et dans la Gouvernance qui en résulte. Toute attente ou contrainte, antérieure ou implicite ne fait pas autorité et n’a aucun poids, à moins que la Gouvernance d’un Cercle ne l’autorise explicitement, ou si elle fait partie des obligations élémentaires ou d’un accord contractuel que vous avez conclu personnellement ou qui a été conclu avec l’Organisation.
+Toutes vos responsabilités et contraintes en tant que Membre de l’Organisation sont définies dans la présente Constitution et dans la Gouvernance qui en résulte. Toute attente ou contrainte, antérieure ou implicite ne fait pas autorité et n’a aucun poids, à moins que la Gouvernance d’un Cercle ne l’autorise explicitement, ou si elle fait partie des obligations élémentaires ou d’un accord contractuel que vous avez conclu personnellement ou qui a été conclu avec l’Organisation.
 
 ### 4.2 Réunion de Synchronisation
 
@@ -532,7 +532,7 @@ Si un Rôle Défini du Cercle n’est pas représenté ou n’est représenté q
 
 ### 4.3 Action Individuelle
 
-En tant qu’Membre de l’Organisation, vous êtes autorisé dans certains cas à agir en dehors des autorités que vous confèrent vos Rôles, ou même à enfreindre les règles de la présente Constitution. En agissant en vertu de cette autorité étendue, vous prenez une « Action Individuelle », et vous devez respecter les règles suivantes :
+En tant que Membre de l’Organisation, vous êtes autorisé dans certains cas à agir en dehors des autorités que vous confèrent vos Rôles, ou même à enfreindre les règles de la présente Constitution. En agissant en vertu de cette autorité étendue, vous prenez une « Action Individuelle », et vous devez respecter les règles suivantes :
 
 #### 4.3.1 Situations autorisées
 
